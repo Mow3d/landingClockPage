@@ -42,13 +42,19 @@ body {
     border-color: black;*/
     align-items: center;
     width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #17D4FE;
+    font-size: 60px;
+    letter-spacing: 7px;
 }
+
+
 
 .text{
     position: relative;
     margin-top: 50px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+    font-size: 25px;
     color: rgb(203, 213, 223);
 }
